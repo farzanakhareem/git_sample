@@ -1,2 +1,2 @@
 # git_sample
-##Basic commands used in Git
+## Basic commands used in Git
