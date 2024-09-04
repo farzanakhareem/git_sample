@@ -1,3 +1,3 @@
 At the top of the file list, locate the Branch drop-down menu. (By default, the menu displays Branch: main.) Click the drop-down menu, type the name of the branch you want to create, and press Enter or return on your keyboard.
 Your repository now has two branches: Main and Child_Branch. You can click the drop-down menu to see your branches.
-
+Any files that were in the main branch are reflected in the Child_Branch. Note that when you add or edit a file in Child_Branch, that change will not automatically reflect in the main branch
